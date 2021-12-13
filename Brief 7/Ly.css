@@ -1,0 +1,104 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#title{
+ align-content: center;
+}
+body{
+
+  background-color: brown;
+ 
+}
+.ddd{
+  display: grid;
+   grid-template-columns: repeat(2, 1fr);
+}
+#tablo{
+  border: solid;
+  border-collapse: collapse;
+}
+
+#butt{
+  float: right;
+  padding: 10px;
+  margin: 20px;
+  width: 100px;
+  border-radius: 10px;
+  margin-right: 200px;
+  cursor: pointer;
+}
+
+
+#input0{
+  padding: 10px;
+  margin: 20px;
+  width: 400px;
+  margin-left: 40px;
+  border-radius: 10px;
+
+}
+#input1{
+  padding: 10px;
+  margin: 20px;
+  width: 400px;
+  margin-left: 40px;
+  border-radius: 10px;
+
+}
+#input2{
+  padding: 10px;
+  margin: 20px;
+  width: 400px;
+  margin-left: 40px;
+  border-radius: 10px;
+
+}
+#input3{
+  padding: 10px;
+  margin: 20px;
+  width: 400px;
+  margin-left: 40px;
+  border-radius: 10px;
+
+}
+#input4{
+  padding: 10px;
+  margin: 20px;
+  width: 400px;
+  margin-left: 40px;
+  border-radius: 10px;
+
+}
+#div1{
+  padding-top: 50px;
+}
+#div2{
+  padding-top: 100px;
+}
+#tablo table, th, td {
+  border: 1px solid black;
+
+}
+#tablo{
+  margin-right: 40px;
+}
+.tabls{
+  width: 200px;
+  height: 30px;
+}
+#tabls2{
+  width: 200px;
+  height: 30px;
+}
+#tabls3{
+  width: 200px;
+  height: 30px;
+}
+#error0{
+  color: whitesmoke;
+
+}
+p {
+  color: whitesmoke;
+}
